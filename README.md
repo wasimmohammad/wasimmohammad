@@ -1,4 +1,4 @@
-![logo](https://github.com/wasimmohammad/wasimmohammad/blob/main/Cover_Design.jpg)
+![logo](https://github.com/wasimmohammad/wasimmohammad/blob/main/GitHub%20Cover.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Wasim Akram</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
